@@ -1,0 +1,2 @@
+# keep the recorded files byte for byte (no line-ending conversion)
+*.csv -text
